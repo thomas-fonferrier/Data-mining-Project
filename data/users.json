@@ -1,0 +1,187 @@
+[
+  {
+    "user_id": "utilisateur_001",
+    "preferred_topic": "turquoise",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "rose"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "france",
+      "gris",
+      "blanc",
+      "marron",
+      "noir",
+      "rose",
+      "turquoise",
+      "vert",
+      "auteur:ettocl",
+      "paris"
+    ],
+    "favorite_images": [
+      "4.jpg",
+      "3.jpg",
+      "6.jpg",
+      "2.jpg",
+      "8.jpg",
+      "1.jpg",
+      "7.jpg",
+      "5.jpg",
+      "9.jpg",
+      "10.jpg"
+    ]
+  },
+  {
+    "user_id": "utilisateur_002",
+    "preferred_topic": "mavic",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "rose"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "france",
+      "gris",
+      "blanc",
+      "noir",
+      "marron",
+      "rose",
+      "over",
+      "paris",
+      "turquoise",
+      "auteur:ettocl"
+    ],
+    "favorite_images": [
+      "5.jpg",
+      "4.jpg",
+      "1.jpg",
+      "6.jpg",
+      "2.jpg",
+      "8.jpg",
+      "10.jpg",
+      "9.jpg",
+      "7.jpg",
+      "3.jpg"
+    ]
+  },
+  {
+    "user_id": "utilisateur_003",
+    "preferred_topic": "copyrighted",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "rose"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "france",
+      "gris",
+      "blanc",
+      "marron",
+      "noir",
+      "rose",
+      "turquoise",
+      "auteur:ettocl",
+      "paris",
+      "vert"
+    ],
+    "favorite_images": [
+      "4.jpg",
+      "7.jpg",
+      "6.jpg",
+      "2.jpg",
+      "8.jpg",
+      "3.jpg",
+      "1.jpg",
+      "5.jpg",
+      "10.jpg",
+      "9.jpg"
+    ]
+  },
+  {
+    "user_id": "utilisateur_004",
+    "preferred_topic": "villa",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "rose"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "france",
+      "gris",
+      "blanc",
+      "noir",
+      "marron",
+      "rose",
+      "paris",
+      "vert",
+      "auteur:ettocl",
+      "over"
+    ],
+    "favorite_images": [
+      "8.jpg",
+      "1.jpg",
+      "9.jpg",
+      "5.jpg",
+      "10.jpg",
+      "4.jpg",
+      "6.jpg",
+      "3.jpg",
+      "2.jpg",
+      "7.jpg"
+    ]
+  },
+  {
+    "user_id": "utilisateur_005",
+    "preferred_topic": "reva",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "rose"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "france",
+      "gris",
+      "blanc",
+      "marron",
+      "noir",
+      "rose",
+      "turquoise",
+      "over",
+      "paris",
+      "auteur:ettocl"
+    ],
+    "favorite_images": [
+      "4.jpg",
+      "5.jpg",
+      "6.jpg",
+      "1.jpg",
+      "2.jpg",
+      "8.jpg",
+      "10.jpg",
+      "7.jpg",
+      "3.jpg",
+      "9.jpg"
+    ]
+  }
+]
