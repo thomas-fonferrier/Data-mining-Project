@@ -1,186 +1,177 @@
 [
   {
     "user_id": "utilisateur_001",
-    "preferred_topic": "turquoise",
+    "preferred_topic": "garage",
     "favorite_colors": [
       "gris",
       "noir",
       "blanc",
       "marron",
-      "rose"
+      "vert"
     ],
     "favorite_orientation": "paysage",
     "favorite_size": "moyenne",
     "favorite_tags": [
-      "france",
       "gris",
-      "blanc",
-      "marron",
+      "koenigsegg",
       "noir",
-      "rose",
-      "turquoise",
+      "blanc",
+      "auteur:carsbyyaza",
+      "marron",
+      "regera",
       "vert",
-      "auteur:ettocl",
-      "paris"
+      "auteur:timdep",
+      "from"
     ],
     "favorite_images": [
-      "4.jpg",
-      "3.jpg",
       "6.jpg",
+      "4.jpg",
+      "10.jpg",
       "2.jpg",
-      "8.jpg",
-      "1.jpg",
       "7.jpg",
+      "1.jpg",
       "5.jpg",
-      "9.jpg",
-      "10.jpg"
+      "3.jpg",
+      "8.jpg"
     ]
   },
   {
     "user_id": "utilisateur_002",
-    "preferred_topic": "mavic",
+    "preferred_topic": "garage",
     "favorite_colors": [
       "gris",
       "noir",
       "blanc",
       "marron",
-      "rose"
-    ],
-    "favorite_orientation": "paysage",
-    "favorite_size": "moyenne",
-    "favorite_tags": [
-      "france",
-      "gris",
-      "blanc",
-      "noir",
-      "marron",
-      "rose",
-      "over",
-      "paris",
-      "turquoise",
-      "auteur:ettocl"
-    ],
-    "favorite_images": [
-      "5.jpg",
-      "4.jpg",
-      "1.jpg",
-      "6.jpg",
-      "2.jpg",
-      "8.jpg",
-      "10.jpg",
-      "9.jpg",
-      "7.jpg",
-      "3.jpg"
-    ]
-  },
-  {
-    "user_id": "utilisateur_003",
-    "preferred_topic": "copyrighted",
-    "favorite_colors": [
-      "gris",
-      "noir",
-      "blanc",
-      "marron",
-      "rose"
-    ],
-    "favorite_orientation": "paysage",
-    "favorite_size": "moyenne",
-    "favorite_tags": [
-      "france",
-      "gris",
-      "blanc",
-      "marron",
-      "noir",
-      "rose",
-      "turquoise",
-      "auteur:ettocl",
-      "paris",
       "vert"
     ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "gris",
+      "koenigsegg",
+      "noir",
+      "blanc",
+      "auteur:carsbyyaza",
+      "marron",
+      "regera",
+      "vert",
+      "auteur:timdep",
+      "from"
+    ],
     "favorite_images": [
-      "4.jpg",
-      "7.jpg",
       "6.jpg",
-      "2.jpg",
-      "8.jpg",
-      "3.jpg",
-      "1.jpg",
-      "5.jpg",
+      "4.jpg",
       "10.jpg",
+      "5.jpg",
+      "8.jpg",
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
       "9.jpg"
     ]
   },
   {
-    "user_id": "utilisateur_004",
-    "preferred_topic": "villa",
+    "user_id": "utilisateur_003",
+    "preferred_topic": "agera",
     "favorite_colors": [
       "gris",
       "noir",
       "blanc",
       "marron",
-      "rose"
+      "vert"
     ],
     "favorite_orientation": "paysage",
     "favorite_size": "moyenne",
     "favorite_tags": [
-      "france",
       "gris",
-      "blanc",
+      "koenigsegg",
       "noir",
+      "blanc",
+      "auteur:carsbyyaza",
       "marron",
-      "rose",
-      "paris",
-      "vert",
-      "auteur:ettocl",
-      "over"
+      "regera",
+      "agera",
+      "auteur:imily",
+      "bleu"
     ],
     "favorite_images": [
-      "8.jpg",
       "1.jpg",
-      "9.jpg",
-      "5.jpg",
-      "10.jpg",
-      "4.jpg",
-      "6.jpg",
-      "3.jpg",
       "2.jpg",
-      "7.jpg"
+      "4.jpg",
+      "7.jpg",
+      "5.jpg",
+      "9.jpg",
+      "6.jpg",
+      "10.jpg",
+      "8.jpg"
+    ]
+  },
+  {
+    "user_id": "utilisateur_004",
+    "preferred_topic": "gris",
+    "favorite_colors": [
+      "gris",
+      "noir",
+      "blanc",
+      "marron",
+      "vert"
+    ],
+    "favorite_orientation": "paysage",
+    "favorite_size": "moyenne",
+    "favorite_tags": [
+      "gris",
+      "koenigsegg",
+      "noir",
+      "blanc",
+      "auteur:imily",
+      "marron",
+      "auteur:hansmuelders",
+      "findbyplate",
+      "https",
+      "picture"
+    ],
+    "favorite_images": [
+      "2.jpg",
+      "7.jpg",
+      "10.jpg",
+      "3.jpg",
+      "9.jpg"
     ]
   },
   {
     "user_id": "utilisateur_005",
-    "preferred_topic": "reva",
+    "preferred_topic": "https",
     "favorite_colors": [
       "gris",
       "noir",
       "blanc",
       "marron",
-      "rose"
+      "vert"
     ],
     "favorite_orientation": "paysage",
     "favorite_size": "moyenne",
     "favorite_tags": [
-      "france",
       "gris",
-      "blanc",
-      "marron",
+      "koenigsegg",
       "noir",
-      "rose",
-      "turquoise",
-      "over",
-      "paris",
-      "auteur:ettocl"
+      "blanc",
+      "auteur:carsbyyaza",
+      "marron",
+      "regera",
+      "vert",
+      "auteur:hansmuelders",
+      "findbyplate"
     ],
     "favorite_images": [
-      "4.jpg",
-      "5.jpg",
-      "6.jpg",
-      "1.jpg",
-      "2.jpg",
-      "8.jpg",
-      "10.jpg",
       "7.jpg",
+      "10.jpg",
+      "2.jpg",
+      "4.jpg",
+      "1.jpg",
+      "5.jpg",
       "3.jpg",
+      "8.jpg",
       "9.jpg"
     ]
   }

@@ -2,321 +2,214 @@
   "1.jpg": {
     "predominant_colors": [
       [
-        111,
-        114,
-        142
+        76,
+        77,
+        80
       ],
       [
-        60,
-        75,
-        109
+        110,
+        121,
+        129
       ],
       [
-        225,
-        193,
-        187
+        173,
+        171,
+        172
       ],
       [
-        172,
-        154,
-        164
+        226,
+        220,
+        218
       ],
       [
-        24,
-        32,
-        48
+        19,
+        21,
+        25
       ]
     ],
     "color_names": [
       "gris",
       "gris",
-      "rose",
       "gris",
+      "blanc",
       "noir"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:chriskaridis",
-      "france",
+      "agera",
+      "auteur:carsbyyaza",
+      "blanc",
       "gris",
-      "noir",
-      "rose"
+      "koenigsegg",
+      "noir"
     ]
   },
   "2.jpg": {
     "predominant_colors": [
       [
-        145,
-        132,
-        171
+        93,
+        86,
+        86
       ],
       [
-        12,
-        9,
-        11
+        48,
+        44,
+        44
       ],
       [
-        190,
-        162,
+        187,
+        185,
         184
       ],
       [
-        124,
-        99,
-        109
+        150,
+        144,
+        144
       ],
       [
-        69,
-        53,
-        58
+        162,
+        27,
+        24
       ]
     ],
     "color_names": [
       "gris",
       "noir",
-      "rose",
+      "gris",
       "gris",
       "marron"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:ettocl",
-      "bridge",
-      "france",
+      "auteur:imily",
       "gris",
+      "koenigsegg",
       "marron",
-      "noir",
-      "parisian",
-      "rose"
+      "noir"
     ]
   },
   "3.jpg": {
     "predominant_colors": [
       [
-        36,
-        55,
-        89
+        10,
+        9,
+        12
       ],
       [
-        93,
-        124,
-        169
+        156,
+        170,
+        171
       ],
       [
-        64,
-        88,
-        129
+        96,
+        105,
+        108
       ],
       [
-        131,
-        168,
-        209
+        57,
+        60,
+        63
       ],
       [
-        229,
-        203,
-        197
+        230,
+        236,
+        235
       ]
     ],
     "color_names": [
+      "noir",
+      "gris",
+      "gris",
       "vert",
-      "gris",
-      "gris",
-      "turquoise",
       "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:tony_cm__",
+      "auteur:eugene_tkachenko",
       "blanc",
-      "flag",
-      "france",
-      "french",
       "gris",
-      "turquoise",
+      "koenigsegg",
+      "noir",
       "vert"
     ]
   },
   "4.jpg": {
     "predominant_colors": [
       [
+        67,
+        74,
+        82
+      ],
+      [
+        29,
+        35,
+        38
+      ],
+      [
+        107,
+        115,
+        122
+      ],
+      [
         76,
-        135,
-        210
+        140,
+        194
       ],
       [
-        192,
-        206,
-        224
-      ],
-      [
-        131,
-        172,
-        224
-      ],
-      [
-        153,
-        138,
-        120
-      ],
-      [
-        78,
-        76,
-        55
+        147,
+        190,
+        225
       ]
     ],
     "color_names": [
-      "bleu",
-      "blanc",
-      "turquoise",
+      "vert",
+      "noir",
       "gris",
-      "marron"
+      "bleu",
+      "turquoise"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "asset",
-      "auteur:anthonydelanoix",
-      "blanc",
+      "auteur:carsbyyaza",
       "bleu",
-      "copyrighted",
-      "france",
       "gris",
-      "group",
-      "marron",
-      "owner",
-      "reva",
-      "turquoise"
+      "koenigsegg",
+      "noir",
+      "regera",
+      "turquoise",
+      "vert"
     ]
   },
   "5.jpg": {
     "predominant_colors": [
       [
-        149,
-        160,
-        168
+        64,
+        59,
+        57
       ],
       [
-        116,
-        126,
-        134
+        25,
+        23,
+        21
       ],
       [
-        79,
-        89,
-        96
+        92,
+        85,
+        82
       ],
       [
-        182,
-        196,
-        209
+        150,
+        138,
+        132
       ],
       [
-        38,
-        49,
-        55
-      ]
-    ],
-    "color_names": [
-      "gris",
-      "gris",
-      "gris",
-      "blanc",
-      "noir"
-    ],
-    "orientation": "paysage",
-    "size_category": "moyenne",
-    "tags": [
-      "auteur:kugnharski",
-      "blanc",
-      "flew",
-      "france",
-      "gris",
-      "info",
-      "mavic",
-      "noir",
-      "over",
-      "paris",
-      "without"
-    ]
-  },
-  "6.jpg": {
-    "predominant_colors": [
-      [
-        40,
-        44,
-        74
-      ],
-      [
-        29,
-        24,
-        35
-      ],
-      [
-        79,
-        99,
-        143
-      ],
-      [
-        108,
-        69,
-        67
-      ],
-      [
-        204,
-        139,
-        81
-      ]
-    ],
-    "color_names": [
-      "noir",
-      "noir",
-      "gris",
-      "marron",
-      "gris"
-    ],
-    "orientation": "paysage",
-    "size_category": "moyenne",
-    "tags": [
-      "auteur:peterlaster",
-      "france",
-      "gris",
-      "marron",
-      "noir",
-      "quaint",
-      "river",
-      "town"
-    ]
-  },
-  "7.jpg": {
-    "predominant_colors": [
-      [
-        74,
-        69,
-        64
-      ],
-      [
-        35,
-        35,
-        34
-      ],
-      [
-        114,
-        105,
-        99
-      ],
-      [
-        156,
-        143,
-        134
-      ],
-      [
-        218,
-        210,
-        213
+        230,
+        224,
+        218
       ]
     ],
     "color_names": [
@@ -329,160 +222,246 @@
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:heytowner",
+      "auteur:komophoto",
       "blanc",
-      "dusk",
-      "france",
       "gris",
+      "koenigsegg",
       "marron",
-      "montmartre",
+      "noir"
+    ]
+  },
+  "6.jpg": {
+    "predominant_colors": [
+      [
+        14,
+        14,
+        15
+      ],
+      [
+        149,
+        148,
+        148
+      ],
+      [
+        205,
+        203,
+        203
+      ],
+      [
+        46,
+        44,
+        43
+      ],
+      [
+        92,
+        91,
+        90
+      ]
+    ],
+    "color_names": [
       "noir",
-      "streets"
+      "gris",
+      "blanc",
+      "noir",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "auteur:timdep",
+      "blanc",
+      "from",
+      "garage",
+      "gris",
+      "koenigsegg",
+      "noir",
+      "zach's"
+    ]
+  },
+  "7.jpg": {
+    "predominant_colors": [
+      [
+        235,
+        234,
+        234
+      ],
+      [
+        9,
+        6,
+        4
+      ],
+      [
+        40,
+        28,
+        22
+      ],
+      [
+        170,
+        165,
+        154
+      ],
+      [
+        100,
+        87,
+        81
+      ]
+    ],
+    "color_names": [
+      "blanc",
+      "noir",
+      "noir",
+      "gris",
+      "gris"
+    ],
+    "orientation": "paysage",
+    "size_category": "moyenne",
+    "tags": [
+      "auteur:hansmuelders",
+      "blanc",
+      "findbyplate",
+      "gris",
+      "https",
+      "koenigsegg",
+      "noir",
+      "picture",
+      "taken"
     ]
   },
   "8.jpg": {
     "predominant_colors": [
       [
+        21,
+        18,
+        13
+      ],
+      [
+        67,
+        48,
+        36
+      ],
+      [
         187,
-        203,
-        223
+        170,
+        129
       ],
       [
-        91,
-        96,
-        114
-      ],
-      [
-        123,
-        129,
-        139
-      ],
-      [
-        60,
-        64,
+        115,
+        98,
         83
       ],
       [
-        147,
-        162,
-        178
+        250,
+        248,
+        238
       ]
     ],
     "color_names": [
-      "blanc",
+      "noir",
+      "marron",
       "gris",
       "gris",
-      "vert",
-      "gris"
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:villagloria",
+      "auteur:jzthecreator",
       "blanc",
-      "france",
-      "gloria",
       "gris",
-      "louvre",
-      "museum",
-      "paris",
-      "vert",
-      "villa"
+      "koenigsegg",
+      "marron",
+      "noir"
     ]
   },
   "9.jpg": {
     "predominant_colors": [
       [
-        238,
-        196,
-        175
+        83,
+        90,
+        88
       ],
       [
-        22,
-        11,
-        29
+        217,
+        218,
+        218
       ],
       [
-        89,
+        128,
+        126,
+        120
+      ],
+      [
+        173,
+        174,
+        173
+      ],
+      [
         40,
-        106
-      ],
-      [
-        183,
-        95,
-        145
-      ],
-      [
-        184,
-        94,
-        28
+        47,
+        44
       ]
     ],
     "color_names": [
-      "rose",
-      "noir",
+      "gris",
+      "blanc",
       "gris",
       "gris",
-      "marron"
+      "noir"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:ettocl",
-      "field",
-      "france",
+      "auteur:niranjan_photographs",
+      "blanc",
       "gris",
-      "lavender",
-      "marron",
-      "noir",
-      "over",
-      "rose",
-      "sunset"
+      "koenigsegg",
+      "noir"
     ]
   },
   "10.jpg": {
     "predominant_colors": [
       [
-        177,
-        195,
-        205
+        36,
+        51,
+        60
       ],
       [
-        129,
-        171,
-        176
+        148,
+        150,
+        150
       ],
       [
-        76,
-        74,
-        71
+        22,
+        26,
+        25
       ],
       [
-        88,
-        143,
-        151
+        100,
+        104,
+        86
       ],
       [
-        147,
-        130,
-        96
+        207,
+        204,
+        202
       ]
     ],
     "color_names": [
-      "blanc",
+      "noir",
       "gris",
-      "marron",
+      "noir",
       "gris",
-      "gris"
+      "blanc"
     ],
     "orientation": "paysage",
     "size_category": "moyenne",
     "tags": [
-      "auteur:kalimullin",
+      "auteur:carsbyyaza",
       "blanc",
-      "france",
       "gris",
-      "marron"
+      "koenigsegg",
+      "noir",
+      "regera"
     ]
   }
 }
